@@ -1,3 +1,20 @@
+# Seed Germination Incubator App
+
+## Project Description
+Developed a mobile application to monitor and manage seed germination in an incubator.
+
+
+
+## Features
+- User Registration and Login
+- User friendly Home Page 
+- 
+- SQLite Database Integration for Data Management
+- User-friendly UI
+- add user input temperature,humidity and light level
+- showing the current data page
+- logout function
+
 * folder structure 
 
 lib=>
